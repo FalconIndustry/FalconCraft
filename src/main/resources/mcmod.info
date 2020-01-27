@@ -1,0 +1,16 @@
+[
+{
+  "modid": "falcon",
+  "name": "FalconCraft",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Todd Govert"],
+  "credits": "Me, Myself, and I",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
